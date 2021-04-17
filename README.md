@@ -7,8 +7,6 @@ Address: http://localhost:5500/transfer
 Start:
 1) docker-compose build
 2) docker-compose up
-3) ????
-4) profit!
 
 Legal request example:
 
