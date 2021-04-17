@@ -12,4 +12,4 @@ Legal request example:
 
 Method:post;
 
-Body:{"cardFromNumber":"1111111111111111","cardToNumber":"2222222222222222","cardFromCVV":"123","cardFromValidTill":"11/24","amount":{"currency":"RUR","value":142524500}};
+Body:{"cardFromNumber":"5610591081018250","cardToNumber":"5019717010103742","cardFromCVV":"123","cardFromValidTill":"11/25","amount":{"currency":"RUR","value":5000}};
